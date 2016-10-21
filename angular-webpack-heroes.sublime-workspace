@@ -1,0 +1,763 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fr",
+				"from\tkeyword"
+			],
+			[
+				"Com",
+				"Component\talias"
+			],
+			[
+				"cons",
+				"const\tkeyword"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"comm",
+				"common"
+			],
+			[
+				"sli",
+				"slider"
+			],
+			[
+				"chec",
+				"checkbox"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"fin",
+				"fincode"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"co",
+				"common"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"in",
+				"inputs"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"ven",
+				"vendorName"
+			],
+			[
+				"sear",
+				"searchStr"
+			],
+			[
+				"fil",
+				"filters"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app/app.component.ts",
+			"settings":
+			{
+				"buffer_size": 710,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/app.component.html",
+			"settings":
+			{
+				"buffer_size": 362,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/hero-detail.component.ts",
+			"settings":
+			{
+				"buffer_size": 235,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/hero-detail.component.html",
+			"settings":
+			{
+				"buffer_size": 168,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/app.component.css",
+			"settings":
+			{
+				"buffer_size": 955,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 58,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/krp/Projects/angular-webpack/public",
+		"/home/krp/Projects/angular-webpack/public/images",
+		"/home/krp/Projects/angular-webpack/src",
+		"/home/krp/Projects/angular-webpack/src/app",
+		"/home/krp/Projects/angular-webpack/src/css",
+		"/home/krp/Projects/angular-webpack/typings/globals",
+		"/home/krp/Projects/angular-webpack/typings/globals/core-js"
+	],
+	"file_history":
+	[
+		"/home/krp/Projects/angular-webpack/src/app/hero.ts",
+		"/home/krp/Projects/angular-webpack/src/app/app.module.ts",
+		"/home/krp/Projects/angular-webpack/src/app/app.component.css",
+		"/home/krp/Projects/angular-webpack/src/index.html",
+		"/home/krp/Projects/angular-webpack/config/webpack.common.js",
+		"/home/krp/Projects/angular-webpack/src/app/app.component.ts",
+		"/home/krp/Projects/angular-webpack/src/app/app.component.spec.ts",
+		"/home/krp/Projects/angular-webpack/src/main.ts",
+		"/home/krp/Projects/angular-webpack/typings.json",
+		"/home/krp/Projects/angular-webpack/src/polyfils.ts",
+		"/home/krp/Projects/angular-webpack/src/app/app.component.html",
+		"/home/krp/Projects/angular-webpack/src/css/styles.css",
+		"/home/krp/Projects/angular-webpack/config/karma-test-shim.js",
+		"/home/krp/Projects/angular-webpack/config/karma.conf.js",
+		"/home/krp/Projects/angular-webpack/config/webpack.test.js",
+		"/home/krp/Projects/angular-webpack/config/webpack.prod.js",
+		"/home/krp/Projects/angular-webpack/config/webpack.dev.js",
+		"/home/krp/Projects/angular-webpack/package.json",
+		"/home/krp/Projects/angular-webpack/angular-webpack-heroes.sublime-project",
+		"/home/krp/Projects/angular-webpack/webpack.config.js",
+		"/home/krp/Projects/angular-webpack/karma.conf.js",
+		"/home/krp/Projects/angular-webpack/config/helpers.js",
+		"/home/krp/Projects/angular-webpack/src/vendor.ts",
+		"/home/krp/Projects/angular-webpack/typing.json",
+		"/home/krp/Projects/angular-webpack/tsconfig.json",
+		"/home/krp/Projects/angular-webpack/tsconfig.js",
+		"/srv/www/osa-perek/public/app/modules/osa/templates/modal/editPromoActionForm.html",
+		"/srv/www/osa-perek/public/app/modules/core/templates/modal/alert.html",
+		"/home/krp/Dropbox/cs50/12.window/slider.c",
+		"/home/krp/Dropbox/cs50/12.window/label.c",
+		"/home/krp/Dropbox/cs50/12.window/checkbox.c",
+		"/srv/www/osa-perek/public/app/modules/core/directives/filter/product/filterProduct.html",
+		"/srv/www/osa-perek/public/app/modules/osa/Controllers/pages/vendorsCtrl.js",
+		"/srv/www/osa-perek/public/app/modules/osa/templates/vendorsGrid.html",
+		"/home/krp/Dropbox/cs50/pset3/find/helpers.c",
+		"/home/krp/Dropbox/cs50/binary_search/binary_search.c",
+		"/home/krp/Dropbox/cs50/binary_search/binary_search",
+		"/srv/www/osa-perek/public/app/modules/osa/templates/addVendor.html",
+		"/srv/www/osa-perek/public/app/modules/osa/Controllers/pages/addVendorCtrl.js",
+		"/srv/www/osa-perek/public/app/modules/osa/templates/modal/editVendor.html",
+		"/srv/www/osa-perek/public/app/modules/osa/Controllers/modal/editVendorCtrl.js",
+		"/srv/www/osa-perek/public/app/modules/osa/templates/addUser.html",
+		"/srv/www/osa-perek/public/app/modules/osa/Controllers/pages/addUserCtrl.js",
+		"/srv/www/osa-perek/public/app/modules/osa/Controllers/modal/changeFromCtrl.js",
+		"/srv/www/osa-perek/public/app/app.js",
+		"/srv/www/osa-perek/public/app/modules/core/Services/modalService.js",
+		"/srv/www/osa-perek/public/app/modules/core/Controllers/reportCtrl.js",
+		"/srv/www/osa-perek/public/app/modules/osa/Controllers/pages/goalsCtrl.js",
+		"/srv/www/osa-perek/public/app/modules/osa/Controllers/pages/productsCtrl.js",
+		"/srv/www/osa-perek/public/app/modules/osa/templates/productsGrid.html",
+		"/srv/www/osa-perek/public/app/modules/osa/Controllers/pages/assortmentReportCtrl.js",
+		"/srv/www/osa-perek/public/app/modules/osa/Controllers/pages/usersCtrl.js",
+		"/srv/www/osa-perek/public/app/modules/osa/templates/users.html",
+		"/srv/www/osa-perek/public/app/modules/core/Services/searchService.js",
+		"/srv/www/osa-perek/public/app/modules/core/directives/filter/filter.js",
+		"/srv/www/osa-perek/public/app/modules/core/directives/gridSearchElement/directive.html",
+		"/srv/www/osa-perek/public/app/modules/core/directives/gridSearchElement/directive.js",
+		"/srv/www/osa-perek/public/app/modules/osa/templates/regular.html",
+		"/srv/www/osa-perek/public/.eslintrc.json"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/home/krp/Projects/angular-webpack/src",
+			"/home/krp/Projects/angular-webpack/config",
+			"",
+			"/srv/www/osa-perek/public/app/modules/osa/Controllers/pages",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"selectedHero",
+			"my",
+			"details",
+			"HeroDetailComponent",
+			"{ ",
+			"hero",
+			"Hero",
+			"{ ",
+			"selectedHero",
+			"HEROES",
+			"Hero",
+			"core",
+			"angular",
+			"Component",
+			" }",
+			"app",
+			"my",
+			"extends",
+			"ClassName",
+			"selectedHero",
+			"onSelect",
+			"heroes",
+			"in",
+			"Hero",
+			"HEROES",
+			"ngModel",
+			"value",
+			"FormsModule",
+			"id",
+			" {{",
+			"hero",
+			"favicon",
+			"Tour",
+			"jas",
+			"public",
+			"start",
+			"public",
+			"platformBrowserDynamic",
+			"AppModule",
+			"bootstrapModule",
+			"AppModule",
+			"platformBrowserDynamic",
+			"enableProdMode",
+			"{ ",
+			"platformBrowserDynamic",
+			"bootstrapModule",
+			"Angular",
+			"With",
+			"css",
+			"Documentation",
+			"docs",
+			"rimraf",
+			"dist",
+			"karma",
+			"webpack",
+			"angular2",
+			"resp",
+			"fincodesSelectObject",
+			"value",
+			"in",
+			"fincodesSelectObject",
+			"Нет",
+			"is_active",
+			"common",
+			"is_active",
+			"common",
+			"auto",
+			"ng",
+			"title",
+			"Введите название финкод",
+			"value",
+			"inputs.fincode",
+			"inputs",
+			"Введите",
+			"value",
+			"<<<<",
+			"Подтвердите",
+			"WINDOW_CLOSED",
+			"slider",
+			"right",
+			"0",
+			"100",
+			", ",
+			"left",
+			" =",
+			"slider",
+			"left",
+			"slider",
+			"getHight",
+			"getHeight",
+			"getWidth",
+			"getHight",
+			"checkbox",
+			"button",
+			" =",
+			"int",
+			"stdio",
+			"updateGr",
+			"search",
+			"vendor_id",
+			"login",
+			"user_id",
+			"DELETE_VENDOR_URL",
+			"users",
+			"vendors",
+			"deleteUserUrl",
+			"const",
+			"user",
+			"User",
+			"deleteItem",
+			"item",
+			"search",
+			"editPromise",
+			"submitPromise",
+			"then",
+			"editPromise",
+			"corePreloadService",
+			"editPromise",
+			" =",
+			"coreRequestService",
+			"key",
+			"val",
+			"lol",
+			"resp",
+			"scope",
+			"resp",
+			"vendor",
+			"title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app/app.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 710,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								648,
+								648
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/app.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/hero-detail.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/app/hero-detail.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								168,
+								168
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/app/app.component.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								7
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 58,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "angular-webpack-heroes.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"alert",
+				"public/app/modules/core/templates/modal/alert.html"
+			],
+			[
+				"report.c",
+				"public/app/modules/core/Controllers/reportCtrl.js"
+			],
+			[
+				"product.htm",
+				"public/app/modules/osa/templates/productsGrid.html"
+			],
+			[
+				"prod.htm",
+				"public/app/modules/core/directives/filter/product/filterProduct.html"
+			],
+			[
+				"prod",
+				"public/app/modules/osa/Controllers/pages/productsCtrl.js"
+			],
+			[
+				"vendor.ht",
+				"public/app/modules/osa/templates/vendorsGrid.html"
+			],
+			[
+				"vend.js",
+				"public/app/modules/osa/Controllers/pages/vendorsCtrl.js"
+			],
+			[
+				"addus",
+				"public/app/modules/osa/Controllers/pages/addUserCtrl.js"
+			],
+			[
+				"adduse",
+				"public/app/modules/osa/Controllers/pages/addUserCtrl.js"
+			],
+			[
+				"modaser",
+				"public/app/modules/core/Services/modalService.js"
+			],
+			[
+				"produc.js",
+				"public/app/modules/osa/Controllers/pages/productsCtrl.js"
+			],
+			[
+				"produc.htl",
+				"public/app/modules/osa/templates/productsGrid.html"
+			],
+			[
+				"repor.js",
+				"public/app/modules/core/Controllers/reportCtrl.js"
+			],
+			[
+				"regu",
+				"public/app/modules/osa/templates/regular.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 463.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

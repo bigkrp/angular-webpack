@@ -1,0 +1,14 @@
+{
+  "folders":
+  [
+    {
+      "path": "./",
+      "name": "Angular Webpack Heroes App",
+      "file_exclude_patterns": ["src/**/*.js", "src/**/*.js.map"]
+    }
+  ],
+  "settings":
+  {
+    "tab_size": 2
+  }
+}
