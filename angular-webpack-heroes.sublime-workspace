@@ -186,13 +186,12 @@
 	},
 	"expanded_folders":
 	[
+		"/home/krp/Projects/angular-webpack",
 		"/home/krp/Projects/angular-webpack/public",
 		"/home/krp/Projects/angular-webpack/public/images",
 		"/home/krp/Projects/angular-webpack/src",
 		"/home/krp/Projects/angular-webpack/src/app",
-		"/home/krp/Projects/angular-webpack/src/css",
-		"/home/krp/Projects/angular-webpack/typings/globals",
-		"/home/krp/Projects/angular-webpack/typings/globals/core-js"
+		"/home/krp/Projects/angular-webpack/src/css"
 	],
 	"file_history":
 	[
