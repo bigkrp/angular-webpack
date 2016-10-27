@@ -18,7 +18,6 @@ export class HeroService {
       .toPromise()
       .then(response => response.json().data as Hero[])
       .catch(this.handlerError);
-      // return Promise.resolve(HEROES);
   }
 
   getHero(id: number): Promise<Hero> {

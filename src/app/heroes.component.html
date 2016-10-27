@@ -9,7 +9,8 @@
   </div>
   <ul class="heroes">
     <li *ngFor="let hero of heroes"
-      (click)="onSelect(hero)"
+      [@heroState]='hero.state'
+      (click)="onSelect(hero); toggleState(hero)"
       [class.selected]="hero === selectedHero">
       <span class="badge">{{hero.id}}</span>
       <span>{{hero.name}}</span>

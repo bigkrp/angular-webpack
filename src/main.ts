@@ -3,6 +3,8 @@ import { enableProdMode } from '@angular/core';
 
 import { AppModule } from './app/app.module';
 
+import './css/styles.css';
+
 if (process.env.ENV === 'production') {
   enableProdMode();
 }
